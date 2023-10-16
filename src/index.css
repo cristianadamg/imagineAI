@@ -32,15 +32,6 @@ a {
   opacity: 0.08;
   width: 100vw;
 }
-/* .piece-1 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-}
-
-.piece-2 {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-} */
 
 /* Main */
 .container {
@@ -68,7 +59,6 @@ a {
 
 .header ul li a:hover {
   color: #8b3dff;
-  /* opacity: 0.8; */
 }
 
 .logo a {
@@ -188,10 +178,7 @@ a {
 }
 
 .loading-text {
-  /* font-size: 1rem; */
-  /* font-size: 1.1rem; */
   font-weight: 200;
-  /* color: #8b3dff; */
   margin-top: 0.6rem;
 }
 
@@ -324,7 +311,6 @@ a {
     display: flex;
     gap: 0.3rem;
     border-radius: 6px;
-    /* border-radius: 15px; */
     box-shadow: rgba(0, 0, 82, 0.15) 0 2px 4px;
   }
 
