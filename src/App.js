@@ -149,11 +149,9 @@ function App() {
         </section>
         <div className="loading">
           <div className={loading ? "loading-bar-full" : "loading-bar"}></div>
-          {/* <div className="loading-bar-full"></div> */}
           <div className={loading ? "loading-text" : "hidden"}>
             Generating your images...
           </div>
-          {/* <div className="loading-text">Generating your images...</div> */}
         </div>
         <section className="imageSection">
           <div className="image">
